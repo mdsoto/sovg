@@ -13,4 +13,5 @@ dependencies:
   - pandas
   - jupyter
   - pydiso
+  - lasio
 prefix: C:\Users\u_ber\miniconda3\envs\cvg18
