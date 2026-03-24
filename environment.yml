@@ -1,0 +1,16 @@
+name: cvg18
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - simpeg
+  - scipy
+  - obspy
+  - numpy
+  - pip
+  - python=3.12
+  - ipywidgets
+  - pandas
+  - jupyter
+  - pydiso
+prefix: C:\Users\u_ber\miniconda3\envs\cvg18
