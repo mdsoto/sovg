@@ -1,5 +1,0 @@
-This is a simple text file. 
-
-It is an exercise for the Python for geosciences course. 
-
-End of the file.
