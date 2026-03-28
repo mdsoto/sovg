@@ -1,0 +1,10 @@
+matplotlib
+simpeg
+scipy
+obspy
+numpy
+ipywidgets
+pandas
+jupyter
+pydiso
+lasio
